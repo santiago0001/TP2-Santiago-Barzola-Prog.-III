@@ -1,0 +1,7 @@
+C:\Users\canch\Downloads\TP2 Clases - Santiago Barzola\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\canch\Downloads\TP2 Clases - Santiago Barzola\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\canch\Downloads\TP2 Clases - Santiago Barzola\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\canch\Downloads\TP2 Clases - Santiago Barzola\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\canch\Downloads\TP2 Clases - Santiago Barzola\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\canch\Downloads\TP2 Clases - Santiago Barzola\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\canch\Downloads\TP2 Clases - Santiago Barzola\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
